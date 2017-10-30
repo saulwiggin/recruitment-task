@@ -1,0 +1,16 @@
+{
+    "name": "user/recruitment-task",
+    "description": "a tool to create an example command line reader",
+    "require": {
+        "nategood/commando": "^0.2.9"
+    },
+    "authors": [
+        {
+            "name": "saulwiggin",
+            "email": "saulwiggin@googlemail.com"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^6.4"
+    }
+}

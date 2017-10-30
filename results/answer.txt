@@ -1,0 +1,1 @@
+print to command line number of active values: 900
